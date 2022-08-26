@@ -1,4 +1,4 @@
-baseURL = 'https://cmauck10.github.io'
+baseURL = 'https://christophermauck.com'
 title = 'ChristopherMauck'
 theme = "hugo-coder"
 languageCode = "en"
