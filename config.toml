@@ -1,0 +1,4 @@
+baseURL = 'http://christophermauck.com/'
+languageCode = 'en-us'
+title = 'Chris Mauck | Cleanlab'
+theme = "ananke"
