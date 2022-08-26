@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ChristopherMauck</title>
+    <link>https://cmauck10.github.io/posts/</link>
+    <description>Recent content in Posts on ChristopherMauck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Aug 2022 11:08:04 -0500</lastBuildDate><atom:link href="https://cmauck10.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>https://cmauck10.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 26 Aug 2022 11:08:04 -0500</pubDate>
+      
+      <guid>https://cmauck10.github.io/posts/my-first-post/</guid>
+      <description>Hello, World!</description>
+    </item>
+    
+    <item>
+      <title>Improving Model Performance with Cleanlab</title>
+      <link>https://cmauck10.github.io/posts/my-second-post/</link>
+      <pubDate>Fri, 26 Aug 2022 11:08:04 -0500</pubDate>
+      
+      <guid>https://cmauck10.github.io/posts/my-second-post/</guid>
+      <description>Improving Model Performance with Cleanlab Link to heading Can we improve performance on baseline models? Link to heading To offer some inspiration for this, the data that I used comes from a project I did my junior year at MIT. A group of friends and I took it upon ourselves to try and &amp;ldquo;beat&amp;rdquo; Vegas at predicting NFL game outcomes. Using their &amp;ldquo;line&amp;rdquo; to determine which team they believed would win, we used our classification model (a GBC) to make our predictions.</description>
+    </item>
+    
+  </channel>
+</rss>
