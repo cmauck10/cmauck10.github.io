@@ -27,6 +27,7 @@ After graduating as Valedictorian of my high school, I attended MIT where I grad
 * :computer: **Computer Science** - Software design, Machine Learning, Data-driven analytics
 * :cook: **Home Chef/Food Critic** - I love to cook (and more so eat!) great food
 * :car: **Car Enthusiast** - BMW and Porsche fanatic. F10 M5 and 981 Boxster S owner
+* :ocean: **Water** - Boating, SCUBA, snorkeling, and fishing
 * :checkered_flag: **Formula 1** - Team RB and Merc
 * :golf: **Golf** - career low round of 80
 * :video_game: **XBox** - COD, Rocket League, Smite
