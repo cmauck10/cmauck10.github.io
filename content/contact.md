@@ -9,3 +9,8 @@ author = "Christopher Mauck"
 If you would like to contact me, you can reach me here:
 * [**LinkedIn**](https://www.linkedin.com/in/chris-mauck/")
 * **Email**: ```cmauck10 [at] mit [dot] edu```
+
+# Docs
+
+* [**Thesis**](/files/thesis.pdf)
+* [**Resume**](/files/resume.pdf)
