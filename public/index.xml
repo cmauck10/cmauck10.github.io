@@ -18,11 +18,11 @@
     
     <item>
       <title>Improving Model Performance with Cleanlab</title>
-      <link>https://christophermauck.com/posts/my-second-post/</link>
+      <link>https://christophermauck.com/posts/improving-model-performance/</link>
       <pubDate>Fri, 26 Aug 2022 11:08:04 -0500</pubDate>
       
-      <guid>https://christophermauck.com/posts/my-second-post/</guid>
-      <description>Improving Model Performance with Cleanlab Link to heading Can we improve performance on baseline models? Link to heading To offer some inspiration for this, the data that I used comes from a project I did my junior year at MIT. A group of friends and I took it upon ourselves to try and &amp;ldquo;beat&amp;rdquo; Vegas at predicting NFL game outcomes. Using their &amp;ldquo;line&amp;rdquo; to determine which team they believed would win, we used our classification model (a GBC) to make our predictions.</description>
+      <guid>https://christophermauck.com/posts/improving-model-performance/</guid>
+      <description>Improving Model Performance with Cleanlab Can we improve performance on baseline models? To offer some inspiration for this, the data that I used comes from a project I did my junior year at MIT. A group of friends and I took it upon ourselves to try and &amp;ldquo;beat&amp;rdquo; Vegas at predicting NFL game outcomes. Using their &amp;ldquo;line&amp;rdquo; to determine which team they believed would win, we used our classification model (a GBC) to make our predictions.</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@
       <guid>https://christophermauck.com/about/</guid>
       <description>Hi! My name is Chris. I am a software junky, football player, car enthusiast, and home chef based in Dallas, Texas. I am currently working as a Data Scientist for Cleanlab, working to bring data-centric AI to the whole world!
 I briefly worked as a Product Analyst after I graduated, following interships at Google and Harvard Medical School. More information about these experiences can be found here.
-Childhood Link to heading I grew up in West Palm Beach, Florida with my younger brother, Matt.</description>
+Childhood I grew up in West Palm Beach, Florida with my younger brother, Matt.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@ Childhood Link to heading I grew up in West Palm Beach, Florida with my younger 
       
       <guid>https://christophermauck.com/contact/</guid>
       <description>If you would like to contact me, you can reach me here:
-LinkedIn Email: cmauck10 [at] mit [dot] edu Docs Link to heading Thesis Resume </description>
+LinkedIn Email: cmauck10 [at] mit [dot] edu Docs Thesis Resume </description>
     </item>
     
     <item>

@@ -18,11 +18,11 @@
     
     <item>
       <title>Improving Model Performance with Cleanlab</title>
-      <link>https://christophermauck.com/posts/my-second-post/</link>
+      <link>https://christophermauck.com/posts/improving-model-performance/</link>
       <pubDate>Fri, 26 Aug 2022 11:08:04 -0500</pubDate>
       
-      <guid>https://christophermauck.com/posts/my-second-post/</guid>
-      <description>Improving Model Performance with Cleanlab Link to heading Can we improve performance on baseline models? Link to heading To offer some inspiration for this, the data that I used comes from a project I did my junior year at MIT. A group of friends and I took it upon ourselves to try and &amp;ldquo;beat&amp;rdquo; Vegas at predicting NFL game outcomes. Using their &amp;ldquo;line&amp;rdquo; to determine which team they believed would win, we used our classification model (a GBC) to make our predictions.</description>
+      <guid>https://christophermauck.com/posts/improving-model-performance/</guid>
+      <description>Improving Model Performance with Cleanlab Can we improve performance on baseline models? To offer some inspiration for this, the data that I used comes from a project I did my junior year at MIT. A group of friends and I took it upon ourselves to try and &amp;ldquo;beat&amp;rdquo; Vegas at predicting NFL game outcomes. Using their &amp;ldquo;line&amp;rdquo; to determine which team they believed would win, we used our classification model (a GBC) to make our predictions.</description>
     </item>
     
   </channel>
